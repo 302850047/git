@@ -19,6 +19,8 @@
 | PreferenceFragment | [点此进入](https://github.com/302850047/git/tree/master/PrefereceFragment) |
 |       实验六       |                                                              |
 |       Intent       | [点此进入](https://github.com/302850047/git/tree/master/Intent) |
+|      期中实验      |                                                              |
+|        note        | [点此进入](https://github.com/302850047/git/tree/master/note) |
 
 
 
