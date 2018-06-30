@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Note_Pad</string>
+    <string name="search_hint">搜索</string>
+</resources>
